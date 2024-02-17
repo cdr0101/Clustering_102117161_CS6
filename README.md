@@ -2,7 +2,7 @@
 ## Comparitive performance study of different clustering algorithms using different pre-processing techniques with different numbers of clusters on different evaluation parameters
 ### Submitted by- CHELSI 3CS6 102117161    
 Dataset used:  
-Trip Advisor Dataset consisting of 10 columns and 980 rows    
+Trip Advisor Dataset consisting of 10 columns and 980 rows      
 Algorithms used:  
 1. K-means Clustering  
 2. Hierarchial Clustering  
@@ -21,4 +21,6 @@ For each algorithm, models are created using different pre-processing techniques
 Best Models:  
 For K-means Clustering: Using Transformation with 4 no of clusters  
 Hierarchial Clustering: Using Transformation & PCA with 4 no of clusters  
-K-means shift Clustering: Using no data preprocessing with 4 no of clusters
+K-means shift Clustering: Using no data preprocessing with 4 no of clusters    
+
+
