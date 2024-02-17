@@ -25,7 +25,7 @@ K-means shift Clustering: Using no data preprocessing with 4 no of clusters
 
   Results:  
   ![kmeans](https://github.com/cdr0101/Clustering_102117161_CS6/assets/117757108/b8631ba9-fc40-4ab6-8d55-fe83ae9317d2)
-  ![hierarchial](https://github.com/cdr0101/Clustering_102117161_CS6/assets/117757108/7db21342-8712-40e7-80df-b8e051c3c9f1)  
+  ![hierarchial](https://github.com/cdr0101/Clustering_102117161_CS6/assets/117757108/7db21342-8712-40e7-80df-b8e051c3c9f1)
   ![kmeansshift](https://github.com/cdr0101/Clustering_102117161_CS6/assets/117757108/e1623a81-7228-4898-83d4-c51c2ea98aed)
 
 
